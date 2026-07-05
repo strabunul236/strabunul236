@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi, I'm Rares 👋<br><br>Data Science and AI student at Leiden University. Tools I work with<br><br>Python, FastAPI, Pandas, Plotly and Dash, Ollama with local Gemma, the Gemini API, SQL, Git, PyTorch, StreamLit, n8n, HTML5<br><br>## About me<br><br>Studying Data Science & AI in the Netherlands<br>Passionate about LLM fine-tuning, AI agents, and NLP<br>Currently working on: experimentation with embedding models for agentic systems
+# Hi, I'm Rares 👋<br><br>Data Science and AI student at Leiden University. 
+
+# About me<br><br>Studying Data Science & AI in the Netherlands<br>Passionate about LLM fine-tuning, AI agents, and NLP<br>Currently working on: experimentation with embedding models for agentic systems
 
 
 ## 🌐 Socials:
