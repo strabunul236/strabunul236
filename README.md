@@ -1,7 +1,6 @@
-# 💫 About Me:
-# Hi, I'm Rares 👋<br><br>Data Science and AI student at Leiden University. 
-
-# About me<br><br>Studying Data Science & AI in the Netherlands<br>Passionate about LLM fine-tuning, AI agents, and NLP<br>Currently working on: experimentation with embedding models for agentic systems
+# About Me:
+# Hi, I'm Rares 
+Studying Data Science & AI in the Netherlands at Leiden University<br>Passionate about LLM fine-tuning, AI agents, and NLP<br>Currently working on: experimentation with embedding models for agentic systems
 
 
 ## 🌐 Socials:
