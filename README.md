@@ -1,9 +1,11 @@
 # About Me:
 # Hi, I'm Rares 
 
-- Studying Data Science & AI in the Netherlands at Leiden University
-- Passionate about LLM fine-tuning, AI agents, and NLP
-- Currently working on: experimentation with embedding models for agentic systems
+Data Science & AI student at Leiden University. I build AI and data tools in Python, from an offline response agent running a local Gemma model to a life dashboard I open every morning.
+
+- Currently building: a personal life dashboard that pulls health, training, and finances into one place, with an AI assistant that reads across everything you log and answers in plain language. Built in Python, in progress, built to ship
+- Recent work: a FastAPI protocol service inside a multi-step agent for local AI models, plus data tools with Gemini and Dash/Plotly
+- Interested in agentic systems, local and on-device AI, and applied ML
 
 
 ## 🌐 Socials:
